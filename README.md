@@ -43,10 +43,17 @@ Would like to:
 * Would like the featured pet section to be a carousel to showcase more animals
 * Change CSS and Mobile view/responsive experience
 
-## Teammates
+### Teammates
 
 Heather H.
 GitHub: <https://github.com/miss-heather>
 
 Cody T.
 GitHub: <https://github.com/codyt93>
+
+### Deployment
+
+![Scraggily Pets (top)](./assets/Screenshots/Screenshot%20top.png)
+![Scraggily Pets (bottom)](./assets/Screenshots/Screenshot%20bottom.png)
+
+Deployed Page: <https://nastasiasisco.github.io/scraggily-pets/>
