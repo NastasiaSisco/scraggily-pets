@@ -2,7 +2,7 @@
 
 When looking to adopt a pet, it’s important to know that some animals are more overlooked than others.
 
-For Bootcamp Project 1, my group created a web app that uses Petfinder API to search for senior and special needs dogs and cats in the Seattle, WA area.
+For Bootcamp Project 1, my group created a web app that uses Petfinder API to search for senior and special needs dogs/cats in the Seattle, WA area.
 
 ## Usage
 
